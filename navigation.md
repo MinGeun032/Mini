@@ -6,4 +6,5 @@
 - about 
 -contact us
 
+<<<<<<< HEAD
 # login 
